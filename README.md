@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niklas-svensson-soprasteria-com
 - 👀 I’m interested in DevOps/DevSecOps/GitDevSecOps
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently experienceing life
+- 💞️ I’m looking to collaborate on everything interesting
 - 📫 How to reach me ...
 
 <!---
